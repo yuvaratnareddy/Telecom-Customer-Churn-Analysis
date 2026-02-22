@@ -111,21 +111,7 @@ Open:
 
 ```
 EDA project.ipynb
-```
 
----
-
-## 📁 Project Structure
-
-```
-Telecom-Customer-Churn-Analysis/
-│
-├── EDA project.ipynb
-├── TelecomCustomerChurn.csv
-└── README.md
-```
-
----
 
 ## 🔮 Future Improvements
 
